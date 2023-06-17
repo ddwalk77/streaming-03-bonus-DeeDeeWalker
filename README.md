@@ -1,5 +1,4 @@
-# streaming-03-bonus-DeeDeeWalker
-Custom bonus project on decoupling with a message broker
+# Decoupling with a message broker
 
 Name: DeeDee Walker
 
